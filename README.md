@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnubv944" alt="vishnubv944" /></a> </p> -->
 
-- 🔭 I’m have Interned at **Xplore Sports Pvt Ltd.,** a Pune-based **startup** that is working on **connecting athletes all over the globe.**
+- 🔭 I have Interned at **Xplore Sports Pvt Ltd.,** a Pune-based **startup** that is working on **connecting athletes all over the globe.**
 
-- 🌱 I’m currently learning **Full-Stack Web Development** using **MERN Technology**
+- 🌱 I’m currently into **Full-Stack Web Development** using **MERN Technology**
 
 - 👯 I'm a part of **The core committee of JSS Developer's Group**, a club that is responsible for **conducting various coding events.**
 
