@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu B V</h1>
-<h3 align="center">Software Engineer at Zyk Technologies | JSSATE-B '24</h3>
+<h3 align="center">Software Engineer at Zysk Technologies | JSSATE-B '24</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnubv944" alt="vishnubv944" /></a> </p> -->
 
